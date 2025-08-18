@@ -29,21 +29,27 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yiheyis-tamir">
+  <a href="https://www.linkedin.com/in/anti19">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:yiheyis.tamir@gmail.com">
+  <a href="mailto:anteaddisue20@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" alt="Email" />
   </a>
-  <a href="https://github.com/YiheyisTamir">
+  <a href="https://github.com/Antiaastu">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/anti_19/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode"     />
+  </a>
+  <a href="https://codeforces.com/profile/anti_19">
+    <img src="https://img.shields.io/badge/Codeforces-lightgrey?logo=codeforces&style=for-the-badge" alt="Codeforces" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+Developer;Backend+Engineer+in+progress;Always+Learning+New+Tech;Let's+Build+Together!&color=00FFCC" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Next.js+Developer;Backend+Engineer+in+progress;Always+Learning+New+Tech;Let's+Build+Together!&color=00FFCC" alt="Typing animation" />
 </p>
 
 ---
@@ -51,8 +57,8 @@ Here are some ideas to get you started:
 ### 🔥 About Me
 
 - 💻 Software Engineering student at **AASTU**
-- 📱 Flutter app developer with 2+ years of experience
-- 🌐 Diving into backend dev with **Node.js** and **Go**
+- 📱 Next.js developer with 2+ years of experience
+- 🌐 Diving into backend dev with **Go** and **Node.js**
 - 🧠 Exploring **HCI**, **Clean Architecture**, and **IoT** projects
 - 🎓 Capstone Project: **Smart Helmet** for safety and health monitoring
 
