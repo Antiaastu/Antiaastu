@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 <!-- Anteneh Addisu | GitHub Profile README -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGEkQF5L8gMmw/profile-displayphoto-shrink_400_400/B4DZcyXoD_GwAk-/0/1748896745145?e=1756944000&v=beta&t=eDGxLGThk4WDBQM05ktsJ3boEhtKU8p1HYpsI_nY4f" alt="Anteneh Addisu" width="160" height: 160 style="border-radius: 50%;" />
+  <img src="[https://media.licdn.com/dms/image/v2/D4D03AQGEkQF5L8gMmw/profile-displayphoto-shrink_400_400/B4DZcyXoD_GwAk-/0/1748896745145?e=1756944000&v=beta&t=eDGxLGThk4WDBQM05ktsJ3boEhtKU8p1HYpsI_nY4f](https://media.licdn.com/dms/image/v2/D4D03AQFCt0Ty97-duQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713981136985?e=1758153600&v=beta&t=kX3kNYt63mgMuowAarE97X3Dgc1UTilIU2r4MCLIfRg)" alt="Anteneh Addisu" width="160" height: 160 style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Anteneh Addisu</h1>
 <h3 align="center">Next.js Developer | Aspiring Backend Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/YiheyisTamir">
-    <img src="https://komarev.com/ghpvc/?username=YiheyisTamir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Antiaastu">
+    <img src="https://komarev.com/ghpvc/?username=Antiaastu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
