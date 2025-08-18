@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 
 ### 🔥 About Me
 
-- 💻 Software Engineering student at **AASTU**
-- 🎓 Next.js developer with 2+ years of experience
-- 🌐 Diving into backend dev with **Go** and **Node.js**
-- 🧠 Exploring **HCI**, **Clean Architecture**, and **IoT** projects
-- 🎓 Capstone Project: **Smart Helmet** for safety and health monitoring
+- 🎓 Software Engineering student at **AASTU**
+- 🌐 Next.js developer with 2+ years of experience
+- ⚡ Exploring backend development with **Go**, adopting adopting **Clean Architecture**
+- 🧠 Diving into **Machine Learning** projects
+- 🏆 Capstone Project: **CamLink** smart camera streaming system
 
 ---
 
