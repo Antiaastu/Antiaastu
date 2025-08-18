@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,nodejs,react,nextjs,mongodb,postgres,c++,python" />
+  <img src="https://skillicons.dev/icons?i=go,ts,nodejs,react,nextjs,mongodb,postgres,cpp,python" />
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,redux,git,postman,figma,java,flutter" />
 </p>
 
