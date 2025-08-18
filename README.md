@@ -83,7 +83,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Antiaastu&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Anteneh Addisu's GitHub Stats" />
     <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Antiaastu&theme=transparent&border_radius=10&locale=en" alt="Anteneh Addisu's" />
-    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Antiaastu&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
 </p>
 
 <p align="center">
