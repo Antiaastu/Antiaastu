@@ -81,12 +81,12 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yiheyistm&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yiheyistm&theme=radical" width="48%" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Antiaastu&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Anteneh Addisu's GitHub Stats" />
+    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Antiaastu&theme=transparent&border_radius=10&locale=en" alt="Anteneh Addisu's" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yiheyistm&theme=github-compact" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Antiaastu&theme=github-compact" width="100%" />
 </p>
 
 ---
@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 ### 🐍 Contribution Snake (Animated)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yiheyistm/yiheyistm/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Antiaastu/Antiaastu/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 
