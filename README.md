@@ -83,116 +83,39 @@ Here are some ideas to get you started:
 <p align="center">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Antiaastu&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Anteneh Addisu's GitHub Stats" />
     <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Antiaastu&theme=transparent&border_radius=10&locale=en" alt="Anteneh Addisu's" />
+    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Antiaastu&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Antiaastu&theme=github-compact" width="100%" />
 </p>
 
----
-
-### 🐍 Contribution Snake (Animated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Antiaastu/Antiaastu/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
-
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yiheyistm&theme=monokai&margin-w=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Antiaastu&theme=monokai&margin-w=10&column=6" />
 </p>
 
 ---
 
-### 📚 Currently Learning
-
-| Skill              | Progress          |
-| ------------------ | ----------------- |
-| Node.js Backend    | ██████████░░░ 75% |
-| Go Programming     | ███████░░░░░░ 55% |
-| RESTful API Design | ██████████░░░ 80% |
-| HCI Principles     | ███████████░░ 90% |
-
----
-
-### ✨ Featured Projects
-
-#### 🛋️ [Furniture E-Commerce App](https://github.com/Yiheyistm/furniture_e_commerce)
-
-A robust Flutter app for furniture shopping. Features AR virtual furniture placement and Stripe payment integration.  
-**Tech:** Dart, C++, CMake, Swift, HTML
-
-#### 🐾 [Pet Adoption App](https://github.com/Yiheyistm/pet-adoption)
-
-Find, browse, and adopt pets with live listings and real-time updates.  
-**Tech:** Dart, C++, CMake, Swift, HTML
-
-#### 💊 [Online Pharmacy App](https://github.com/Yiheyistm/online_pharmacy)
-
-A Flutter app for purchasing medicines and healthcare products online.  
-**Tech:** Dart, C++, CMake, Swift, HTML
-
-#### 🏫 [SoftNet School Portal](https://github.com/Yiheyistm/softnet_school_portal)
-
-A digital school portal built with Flutter, streamlining student-teacher interaction and school management.  
-**Tech:** Dart, C++, CMake, Swift, HTML
-
-#### 🩺 [Disease Prediction & Medical Recommendation System](https://github.com/Yiheyistm/Disease-Prediction-and-Medical-Recommendation-System)
-
-Machine learning models for disease prediction and medical recommendations.  
-**Tech:** Jupyter Notebook, HTML, Python
-
-#### 💡 [LeetCode Solutions](https://github.com/Yiheyistm/leetcode_solutions)
-
-A collection of solved LeetCode problems, showcasing algorithms and problem-solving skills.  
-**Tech:** Python, Dart
-
-#### ☀️ [Real-Time Weather App](https://github.com/Yiheyistm/weather_app)
-
-A Flutter app providing real-time weather updates and forecasts.  
-**Tech:** Dart, C++, CMake, Swift, HTML
-
-#### 🏠 [Virtual Home Rental App](https://github.com/Yiheyistm/Gojo-RentHub)
-
-A Flutter app for browsing and renting homes, featuring a user-friendly interface and real-time listings.
-**Tech:** Dart, C++, CMake, Swift, HTML
-
-#### 🏠 [Smart Helmet Project(IETP Group Project App)](https://github.com/Yiheyistm/smart_helmet)
-
-A wearable device monitoring heart rate, body temperature, and oxygen. Alerts users to health risks and can trigger emergency responses upon impact—supporting SDGs like Good Health & Sustainable Cities.
-**Tech:** Dart, C++, CMake, Swift, HTML
-
----
-
-<!--
-If you add screenshots to your repos (e.g., assets/screenshots/home.png), let me know or upload them here, and I’ll embed them like:
-![Furniture E-Commerce App Screenshot](https://github.com/Yiheyistm/furniture_e_commerce/raw/main/assets/screenshots/home.png)
--->
-
----
 
 ### 🎓 Education
 
 **BSc in Software Engineering**  
 _Addis Ababa Science and Technology University (AASTU)_  
 Expected Graduation: 2026
-
 ---
 
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:yiheyis.tamir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/yiheyis-tamir"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://github.com/YiheyisTamir"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" alt="GitHub" /></a>
+  <a href="mailto:anteaddisue20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/anti19"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://github.com/Antiaastu"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge" alt="Telegram" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <em>“Building meaningful tech, one line at a time.”</em>
+  <em>“Crafting clean code for real-world impact.”</em>
 </p>
