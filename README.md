@@ -57,30 +57,23 @@ Here are some ideas to get you started:
 ### 🔥 About Me
 
 - 💻 Software Engineering student at **AASTU**
-- 📱 Next.js developer with 2+ years of experience
+- 🎓 Next.js developer with 2+ years of experience
 - 🌐 Diving into backend dev with **Go** and **Node.js**
 - 🧠 Exploring **HCI**, **Clean Architecture**, and **IoT** projects
 - 🎓 Capstone Project: **Smart Helmet** for safety and health monitoring
 
 ---
 
-### 🚀 Technologies I Work With
+## 🛠️ Languages and Tools
+
+<br>
 
 <p align="center">
-  <!-- Animated skill icons (SVG + GIFs) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" />
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="Node.js" width="40" height="40" />
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Go" width="40" height="40" />
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="Dart" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
 </p>
-<p align="center">
-  <!-- Skillicons.dev for colorful icons -->
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,nodejs,go,java,mongodb,js,html,css" />
-</p>
+
+<hr>
 <!-- (Tip: You can add or remove icons above as needed) -->
 
 ---
