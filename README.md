@@ -100,7 +100,6 @@ Here are some ideas to get you started:
 
 **BSc in Software Engineering**  
 _Addis Ababa Science and Technology University (AASTU)_  
-Expected Graduation: 2026
 ---
 
 ### 🤝 Let's Connect
